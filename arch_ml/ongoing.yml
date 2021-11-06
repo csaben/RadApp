@@ -1,0 +1,7 @@
+>"double checking voxel; do radiologists get more than one segmentation per patient? yes, continue with the following todo:"
+
+The data a readiologist receieves to go over is a full set of segmentations. You can imagine that an MRI machine orbitats about the patient
+collecting relevant information throughout in the form a chronological stack of dcm files (so this in theory eliminates axial checking necessaity, we still
+require it for when we train=>it needs to match the axial given to radiologists). This means that for every patient we could in theory generate a voxel or do an
+average image (we will start with later for now, however a voxel is the necessary next step; 2d nn vs 3nn in effect).
+
