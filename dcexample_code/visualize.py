@@ -1,3 +1,5 @@
+#dependencies required; pydicom, matplotlib, numpy
+
 #imports
 import pydicom
 from pydicom.pixel_data_handlers.util import apply_color_lut
