@@ -8,7 +8,7 @@ ipfs cid -> universal sorting script[csv reference] -> inference script [modulat
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
+[currently only using glioma and control; neglect universal]
 
 Weekend Content(11/5-7) and onwards:
 
