@@ -34,3 +34,10 @@ Provide Radiologists with a tool to double check the pathology labels they make.
 - Store Oasis data on IPFS 
 - Create chainlink external adapter for (IPFS De-Identified Medical Image CID: Label) key value pairs
 <!-- .slide vertical=true -->
+
+## Developer To Do List
+
+<!-- .slide vertical=true -->
+- Update white paper for most accurate architecture
+- Complete Oasis file handling architecture
+<!-- .slide vertical=true -->
