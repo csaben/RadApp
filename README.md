@@ -1,5 +1,5 @@
 # RadApp
-code base for front end, backend, and rest of related docs
+Code base for front end, backend, and rest of related docs
 
 <!-- .slide -->
 
@@ -10,15 +10,23 @@ Provide Radiologists with a tool to double check the pathology labels they make.
 ### Sub-Goals
 
 - De-identify patient data and store on the oasis blockchain with labels
-- provide public access to this ever growing database
+- Provide public access to this ever growing database
+- Create re-training loop based on new database entries 
 
 <!-- .slide vertical=true -->
 
-#content
-
 <!-- .slide -->
 
-## Projects
+## Achieved Results
+
+<!-- .slide vertical=true -->
+- Docker image that takes patient MR data and returns a prediction 
+- Initial [database](https://www.kaggle.com/clarksaben/glioma-axial-test-radapp) for MR data (Cancer Imaging Archive and Kaggle 2021 RSNA competition)
+- Initial ML training pipeline 
+
+<!-- .slide vertical=true -->
+
+## Aims going forwards
 
 <!-- .slide vertical=true -->
 
