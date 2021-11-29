@@ -33,6 +33,7 @@ Provide Radiologists with a tool to double check the pathology labels they make.
 - Connect Front-End to Oasis backend
 - Store Oasis data on IPFS 
 - Create chainlink external adapter for (IPFS De-Identified Medical Image CID: Label) key value pairs
+- Oasis Parcel set-up (current progress not included for private key leak concerns)
 <!-- .slide vertical=true -->
 
 ## Developer To Do List
